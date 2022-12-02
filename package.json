@@ -1,0 +1,19 @@
+{
+  "name": "go-math-bot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon index.js",
+    "start": "node index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "mongoose": "^6.7.3",
+    "node-telegram-bot-api": "^0.60.0",
+    "nodemon": "^2.0.20",
+    "sqlite3": "^5.1.2"
+  }
+}
